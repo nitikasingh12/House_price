@@ -2,7 +2,6 @@
 
 Predicting house sale prices using the Ames Housing Dataset.
 
-This was built as part of a Data Science interview task.
 
 ---
 
