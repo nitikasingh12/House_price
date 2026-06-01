@@ -1,12 +1,11 @@
 # Housing Price Prediction
-
 Predicting house sale prices using the Ames Housing Dataset.
 
+##    Google colab Notebook
+link:https://colab.research.google.com/drive/1gQnG7bF17h5Yx9moc--ZIy42eLFsKVZ0?usp=sharing
 
----
 
 ## What I did
-
 1. **Loaded the data** — test.csv with 79 features per house
 2. **Explored the data** — checked missing values, distributions, correlations
 3. **Feature Engineering** — created 8 new features like TotalSF, HouseAge, TotalBath etc.
