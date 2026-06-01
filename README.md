@@ -59,24 +59,6 @@ pip install -r requirements.txt
 
 # Run the full pipeline
 python housing_price_prediction.py
-```
-
----
-
-## EDA Plots
-
-### SalePrice Distribution
-![Price Distribution](plots/01_price_distribution.png)
-
-### Quality vs Price
-![Quality vs Price](plots/02_quality_vs_price.png)
-
-### Top Correlated Features
-![Correlations](plots/03_top_correlations.png)
-
-### Feature Importances
-![Feature Importance](plots/04_feature_importance.png)
-
 ---
 
 ## Features I engineered
